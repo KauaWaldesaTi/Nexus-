@@ -8,6 +8,10 @@ O **Nexus** é um sistema completo de monitoramento e gestão de equipamentos vo
 
 A plataforma centraliza informações críticas, permitindo maior controle operacional, redução de falhas e tomada de decisão baseada em dados.
 
+Interface:
+<img width="1904" height="913" alt="image" src="https://github.com/user-attachments/assets/5fb9123f-21b3-4631-869c-b0c783ab4b77" />
+
+
 ---
 
 ## 🎯 Objetivo
@@ -113,6 +117,7 @@ Durante o desenvolvimento, foram aplicados conceitos como:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Kauã** 🚀
+Desenvolvido por **Kauã**
+Email: kauasteter06@gmail.com 🚀
 
 
